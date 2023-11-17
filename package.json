@@ -1,0 +1,22 @@
+{
+  "name": "migree",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ampa1R/migree.git"
+  },
+  "keywords": [
+    "migration"
+  ],
+  "author": "Filipp Vasilev <ampa1r.pl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ampa1R/migree/issues"
+  },
+  "homepage": "https://github.com/Ampa1R/migree#readme"
+}
